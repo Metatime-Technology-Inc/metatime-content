@@ -22,5 +22,10 @@
                 }
             }
         }
+    },
+    "modal": {
+        "verify": {
+            "text": "Verify"
+        }
     }
 }
