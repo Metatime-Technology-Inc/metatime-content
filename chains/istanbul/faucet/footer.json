@@ -1,8 +1,4 @@
-[
-    {
-        "text": "2024 © MetaChain Istanbul"
-    },
-    {
-        "text": "made by @metatime with ❤️"
-    }
-]
+{
+    "copyright": "2024 © MetaChain Istanbul",
+    "with": "made by @metatime with ❤️"
+}
