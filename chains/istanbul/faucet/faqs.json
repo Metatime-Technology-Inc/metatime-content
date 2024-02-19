@@ -1,26 +1,26 @@
 [
     {
-        "title": "How do I use this?",
-        "description": "To request funds, simply sign into with Alchemy, enter your wallet address, and hit “Send Me ETH”. We support wallets as received addresses but not smart contracts."
+        "title": "What is a Faucet?",
+        "description": "A Faucet is distributes a small amount of cryptocurrency in return for completing a few specified tasks."
     },
     {
-        "title": "How does it work?",
-        "description": "You can request 0.5 Base Sepolia ETH every 24h with a free Alchemy account!"
+        "title": "What is the purpose of the Faucet?",
+        "description": "The Faucet rewards users who complete its tasks with small incentives. These rewards are typically deposited into the user's wallet, and after reaching a certain limit, users can withdraw earned crypto to their own wallets."
     },
     {
-        "title": "What is a testnet Ethereum faucet?",
-        "description": "An Ethereum faucet is a developer tool to get testnet Ether (ETH) in order to test and troubleshoot your decentralized application or protocol before going live on Ethereum mainnet, where one must use real Ether. Most faucets require social authentication (e.g. Twitter post or login confirming you are a real human) or place you in a queue to wait for a testnet token through the faucet. The Alchemy Sepolia faucet is free, fast, and does not require authentication, though you can optionally login to Alchemy to get an increased drip."
+        "title": "What is TestNet MTC?",
+        "description": "TestNet cryptos are a specialized type of cryptocurrency used exclusively for testing purposes. With these TestNet MTCs, new features and functionalities can be tested on the network without risking real MTCs. Similarly, they can be used to understand the operation of the MetaChain without exposing real MTC to risk."
     },
     {
-        "title": "What is a testnet token?",
-        "description": "Testnet tokens are a test currency that allows you to test your Ethereum application before going live on mainnet. Testnet tokens can be used in place of mainnet Ether tokens on testnets like Sepolia. You can read more here."
+        "title": "Do TestNet MTCs have any value?",
+        "description": "TestNet MTCs do not have real value. They are the only test tokens used within the MetaChain test network."
     },
     {
-        "title": "I get an error saying “Your wallet address was missing from the request, so we did not send you any test token” even though I did copy my wallet address correctly. What is going on?",
-        "description": "An Ethereum-based wallet address is 42 characters long including the “0x” at the front. We only support wallets that follow this spec, so please make sure your wallet meets the criteria! We have seen a few users try to put Argent Wallets, but unfortunately we do not support that at this time."
+        "title": "Can TestNet MTCs be exchanged for real MTCs?",
+        "description": "TestNet MTCs cannot be exchanged for real MTCs."
     },
     {
-        "title": "The faucet confirmed that it sent me test tokens, but I still have not received them. Why is that?",
-        "description": "The time it takes for you to receive your test tokens may vary! This is because the network may be congested at this time, or the amount of gas we have set for these transactions may be a little low compared to other transactions that miners may choose to validate instead. If it has been over a few hours and you still have not received your testnet tokens, please fill out this form and we will send some!"
+        "title": "Where can I find more information about Faucets?",
+        "description": "You can read our blog post about Faucets by visiting our MetaBlog."
     }
 ]

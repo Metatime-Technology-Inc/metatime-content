@@ -1,21 +1,21 @@
 {
-    "title": "Drop in your wallet details",
-    "description": "Connect your wallet! We recommend Metamask wallet.",
+    "title": "Connect your Crypto Wallet and get TestNet MTCs!",
+    "description": "We recommend using MetaMask.",
     "buttons": {
         "connect": {
             "text": "Connect Wallet"
-        },
+        }, 
         "disconnect": {
             "text": "Disconnect"
         },
         "claim": {
-            "text": "Send me Istanbul MTC",
+            "text": "Send me TestNet MTC",
             "stages": {
                 "claim": {
-                    "text": "Send me Istanbul MTC"
+                    "text": "Send me TestNet MTC"
                 },
                 "loading": {
-                    "text": "Requesting faucet coins.."
+                    "text": "Requesting TestNet MTCs..."
                 },
                 "claimed": {
                     "text": "Remaining time: "
